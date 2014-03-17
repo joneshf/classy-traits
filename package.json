@@ -1,0 +1,30 @@
+{
+  "name": "classy-traits",
+  "version": "0.0.1",
+  "description": "Thin wrapper around traits.js that supports \"classes\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joneshf/classy-traits.git"
+  },
+  "keywords": [
+    "trait",
+    "class",
+    "inheritance",
+    "mixin"
+  ],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joneshf/classy-traits/issues"
+  },
+  "homepage": "https://github.com/joneshf/classy-traits",
+  "devDependencies": {
+    "traits": "^0.4.0",
+    "gulp-livescript": "^0.2.1",
+    "gulp": "^3.5.6"
+  }
+}
