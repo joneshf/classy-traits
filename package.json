@@ -1,6 +1,6 @@
 {
   "name": "classy-traits",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Thin wrapper around traits.js that supports \"classes\".",
   "main": "index.js",
   "scripts": {
